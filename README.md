@@ -2,11 +2,11 @@
 It is a simple and resonsive Food Website Website, you can navigate through them.
 
 ## Desktop View
-![Default View](main.png)
+![Default View](/images/main.png)
 
 ## Mobile view
-![Mobile View](mobiles1.png)
-![Mobile View](mobiles2.png)
+![Mobile View](/images/mobiles1.png)
+![Mobile View](/images/mobiles2.png)
 
 
 ## 💻Tech Stack
@@ -25,7 +25,7 @@ It is a simple and resonsive Food Website Website, you can navigate through them
 - Download or clone the repository
 
 ```
-git clone https://github.com/imriyakri/WebDev-.git
+git clone https://github.com/imriyakri/Food-To-Go-.git
 ```
 
 - Go to the directory
