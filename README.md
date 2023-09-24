@@ -1,6 +1,4 @@
-# Welcome 🖐 to the Food Website Website Template.
-It is a simple and resonsive Food Website Website, you can navigate through them.
-
+# Welcome 🖐 to my Food-To-Go Website
 ## Desktop View
 ![Default View](/images/main.png)
 
@@ -27,11 +25,7 @@ It is a simple and resonsive Food Website Website, you can navigate through them
 ```
 git clone https://github.com/imriyakri/Food-To-Go-.git
 ```
-
-- Go to the directory
 - Run the index.html file
 - Navigate the website in different modes(desktop or mobile)
 
 <br>
-
-## Happy Coding!
